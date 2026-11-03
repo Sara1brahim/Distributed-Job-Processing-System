@@ -1,0 +1,28 @@
+# CLion and IDE files
+.idea/
+.vs/
+
+# CMake build directories
+cmake-build-*/
+build/
+
+# Compiled files
+*.exe
+*.o
+*.obj
+*.dll
+*.a
+
+# Local databases
+*.db
+*.sqlite
+*.sqlite3
+
+# Logs
+*.log
+build-errors.txt
+gcc-log.txt
+
+# OS files
+.DS_Store
+Thumbs.db
