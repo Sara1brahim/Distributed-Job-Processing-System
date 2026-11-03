@@ -167,4 +167,7 @@ The next development phase focuses on integrating distributed execution with the
 
 ## Author
 
-Developed as a C++20 software engineering project.
+**Sara Ibrahim**
+
+- GitHub: [@Sara1brahim](https://github.com/Sara1brahim)
+- Project: [Distributed Job Processing System](https://github.com/Sara1brahim/Distributed-Job-Processing-System)
